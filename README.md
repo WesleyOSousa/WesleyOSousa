@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**WesleyOSousa/WesleyOSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                  <b>        Seja Bem vindo(a)! 👋 </b>
 
 Here are some ideas to get you started:
 
