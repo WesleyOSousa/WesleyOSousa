@@ -14,4 +14,4 @@ Sobre mim: Atualmente Desenvolvedor/Ux Design & Imagineer do servidor de Rolepla
  • <a href="https://www.instagram.com/o_wess_/">Instagram</a>
  • <a href="https://www.youtube.com/channel/UC1tiyY2TV_lKmNvXgeYFhBQ">YouTube</a>
 </p>
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/859961679021473802/860810745015959562/seplil2_2_1_1_1-1.gif" width="500" height="320" />
+<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/859961679021473802/860810745015959562/seplil2_2_1_1_1-1.gif" />
