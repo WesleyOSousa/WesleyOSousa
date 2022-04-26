@@ -1,4 +1,4 @@
-                                                                  ** Seja Bem vindo(a)! 👋**
+<h2 align="center"> Seja Bem vindo(a)! 👋</h2>
 
 Here are some ideas to get you started:
 
