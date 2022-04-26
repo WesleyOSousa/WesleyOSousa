@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, Sou o Wesley, conhecido também como Blanco seja Bem vindo(a) ao meu perfil no Github! 👋</h2>
+<h2 align="center"> Olá, Sou o Wesley, conhecido também como Blanco, seja Bem vindo(a) ao meu Github! 👋</h2>
 
 
 
