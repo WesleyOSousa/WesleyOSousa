@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+ • <a href="https://instagram.com/caraihugo">Instagram</a>
+</p>
